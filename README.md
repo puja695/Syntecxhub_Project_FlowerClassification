@@ -1,7 +1,5 @@
 # Syntecxhub_Project_FlowerClassification
-Here’s a **short and impressive README.md** — perfect for GitHub 👇
 
----
 
 ````markdown
 # 🌸 Flower Classification (Iris Dataset)
@@ -67,7 +65,3 @@ python src/predict_cli.py 5.1 3.5 1.4 0.2  # Predict
 
 ```
 
----
-
-Would you like me to make this version look **aesthetic with emojis and colored badges** (perfect for your GitHub portfolio)?
-```
